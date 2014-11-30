@@ -1,0 +1,1 @@
+https://blogs.oracle.com/unixben/entry/install_tmux_on_mac_os
